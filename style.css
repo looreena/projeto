@@ -1,0 +1,16 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+    .cabeçalh{
+        background-color: aquamarine;
+        color: aliceblue;
+        display: flex;
+        justify-content: space-around;
+        aligh-items:center;
+        padding: 24px;
+    }
+    .cabeçalho-imagem{
+        width:20%;
+    }
